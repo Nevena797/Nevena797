@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nevena797
+- 👋 Hi, I’m @Nevena.
 - 👀 I’m interested in  programming, logistics and business development.
 - 🌱 I’m currently learning C# and JavaScript.
 - 📫 How to reach me nevena.rogova@gmx.at
